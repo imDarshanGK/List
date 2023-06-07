@@ -31,6 +31,6 @@ solution:
         length= 6
         sorted marks= [41, 58, 62, 74, 86, 94]
         Traceback (most recent call last):
-          File "C:/Users/Darshan/Desktop/functions which works on tuple, list, set and dict..py", line 9, in <module>
+          File "C:/Users/Darshan /Desktop/functions which works on tuple, list, set and dict..py", line 9, in <module>
             print('marks=',marks)
         NameError: name 'marks' is not defined. Did you mean: 'vars'?
