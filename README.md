@@ -34,3 +34,10 @@ solution:
           File "C:/Users/Darshan /Desktop/functions which works on tuple, list, set and dict..py", line 9, in <module>
             print('marks=',marks)
         NameError: name 'marks' is not defined. Did you mean: 'vars'?
+        
+we can add 2 or 3 list together
+
+solution:
+
+       d= [2, 4, 6, 1, 3, 9, 12, 4, 6, 8]
+
