@@ -40,4 +40,13 @@ we can add 2 or 3 list together
 solution:
 
        d= [2, 4, 6, 1, 3, 9, 12, 4, 6, 8]
+     
+List supports repetition
+
+solution:
+
+        b= [2, 5, 9, 2, 5, 9, 2, 5, 9]
+
+
+   
 
