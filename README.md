@@ -63,6 +63,26 @@ solution:
         [30, 28, 26, 24]
         [30, 28, 26, 24, 22, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2]
 
+List functions 
 
-   
+ List is mutable(modifiable)
+  *  Can insert single value using append function.
+  * It adds the given value at the end of list.
+    can insert single value using append function.
+
+solution:
+
+       [20, 80, 40, 20, 50, 80, 20, 15, 25, 35]
+       
+can delete single value from list   
+
+solution:  
+
+       [80, 40, 20, 50, 80, 20]
+
+can update value
+
+solution:
+
+       [20, 80, 40, 60, 50]
 
