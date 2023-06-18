@@ -86,3 +86,14 @@ solution:
 
        [20, 80, 40, 60, 50]
 
+Clear Function
+
+solution:
+
+       a= [10, 20, 50, 60, 50, 20.3, '#', 'list']
+       a= []
+
+
+
+                        
+
