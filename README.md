@@ -94,6 +94,15 @@ solution:
        a= []
 
 
+# Copy Function
+
+Copy Function: This function used to copy entire list values to another list.
+
+solution:
+
+       a= [20, 23.5, '#', 'Hello']
+       b= [20, 23.5, '#', 'Hello']
+
 
                         
 
