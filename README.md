@@ -102,7 +102,17 @@ solution:
 
        a= [20, 23.5, '#', 'Hello']
        b= [20, 23.5, '#', 'Hello']
+# Count Function and Index Function
+* Count Function:  This function gives number of occurrences of gives element.
+* Index Function: This function gives index of given values.
 
+solution:
 
+        3
+        2
+        1
+        0
+        0
+        1
                         
 
