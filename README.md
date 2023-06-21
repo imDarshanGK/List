@@ -114,5 +114,12 @@ solution:
         0
         0
         1
-                        
+# Extend Function                        
+Extend Function: Extend used to add multiple elements at the end of the list.
+
+solution:
+
+        e= [10, 20, 30, 40, 2, 4, 6, 8]
+
+
 
