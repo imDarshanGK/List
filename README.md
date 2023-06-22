@@ -121,5 +121,12 @@ solution:
 
         e= [10, 20, 30, 40, 2, 4, 6, 8]
 
+# Insert Function
+Insert Function: used to insert the element at given posotion.
+
+solution:
+
+       a=[10,50,40,80,100,30]
+
 
 
