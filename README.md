@@ -128,5 +128,12 @@ solution:
 
        a=[10,50,40,80,100,30]
 
+# pop function
+pop function: pop used to remove last item in the list.
+
+solution:
+
+       p=[10,20,40,60]
+
 
 
