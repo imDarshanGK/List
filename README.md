@@ -135,5 +135,11 @@ solution:
 
        p=[10,20,40,60]
 
+# Remove Function
+Remove function used to remove given element from the list.
+
+solution:
+
+       p= [10, 20, 70, 30]
 
 
