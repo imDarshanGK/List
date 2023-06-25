@@ -142,4 +142,12 @@ solution:
 
        p= [10, 20, 70, 30]
 
+# Sort Function
+Sort Function: used to sort the elements in ascending order.
+
+solution:
+
+       p= [10, 20, 30, 50, 60, 70, 80]
+
+
 
