@@ -148,6 +148,14 @@ Sort Function: used to sort the elements in ascending order.
 solution:
 
        p= [10, 20, 30, 50, 60, 70, 80]
+# Reverse Function:
+Reverse Function: used to reverse the elements in the list.
+
+solution:
+
+        p= [30, 70, 50, 20, 60, 10, 80]
+
+
 
 
 
